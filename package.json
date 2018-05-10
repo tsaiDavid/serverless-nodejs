@@ -1,0 +1,12 @@
+{
+  "name": "serverless-nodejs",
+  "version": "1.0.0",
+  "description": "An Offline Demo",
+  "main": "index.js",
+  "repository": "git@github.com:tsaiDavid/serverless-nodejs.git",
+  "author": "David Tsai <david@whataniceguy.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-offline": "^3.20.3"
+  }
+}
